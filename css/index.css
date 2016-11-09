@@ -1,0 +1,15 @@
+img[alt=qr] {
+  width: 400px;
+  border: none;
+  background: none;
+}
+img[alt=mapillary] {
+  width: 400px;
+  border: none;
+  background: none;
+}
+img[alt=missing] {
+  height: 400px;
+  border: none;
+  background: none;
+}
